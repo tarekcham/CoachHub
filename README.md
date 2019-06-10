@@ -1,7 +1,5 @@
 # CoachHub
 
-React 16 &amp;
-
 
 ___
 
